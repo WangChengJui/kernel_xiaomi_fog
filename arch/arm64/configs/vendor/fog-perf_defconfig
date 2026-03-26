@@ -676,3 +676,6 @@ CONFIG_THINLTO=y
 
 # Uid_stats
 CONFIG_UID_SYS_STATS=y
+
+# KernelSU Next
+CONFIG_KSU=y
